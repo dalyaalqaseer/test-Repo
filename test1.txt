@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 86E6-1FE5
-
- Directory of C:\Users\dalya\Desktop\My Project Git
-
-08/07/2020  04:26 PM    <DIR>          .
-08/07/2020  04:26 PM    <DIR>          ..
-08/07/2020  04:26 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  442,788,941,824 bytes free
+change 1
